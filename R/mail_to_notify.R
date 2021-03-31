@@ -10,7 +10,7 @@
 if (!require('emayili')) devtools::install_github("datawookie/emayili")
 if (!require('dplyr')) install.packages(dplyr)
 
-library(emayili);library(dplyr)
+require(emayili);require(dplyr)
 
 ## MAIN FUNCTION
 mail_to_notify <- function(receiver="wbsph@pku.edu.cn",password="QWQFBTLRDABELQPB"){
