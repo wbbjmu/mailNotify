@@ -1,0 +1,10 @@
+Package: mailNotify
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: BO WEN, MONASH UNIVERSITY
+Maintainer: The package maintainer <bo.wen@monash.edu>
+Description: This package provide a fucntion (mail_to_notify) to help me to notify myself when project will be completed.
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
